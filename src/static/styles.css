@@ -106,6 +106,10 @@ section h3 {
   background-color: #bbb;
 }
 
+.activity-card ul::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
